@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "Enjoi.Design",
+  "description": "Personnal Site",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
