@@ -13,14 +13,11 @@
   import { _ } from 'svelte-i18n';
 </script>
 
-<style>
-	
-</style>
-
 <svelte:head>
-  <title>{$_('title')}</title>
+  <title>{$_('title.about')}</title>
 </svelte:head>
 
-<h1>{$_('heading')}</h1>
-
-<p>{$_('body')}</p>
+<div>
+  <h1>{$_('about_this_site')}</h1>
+  <p>{$_('about_content.0')}</p>
+</div>

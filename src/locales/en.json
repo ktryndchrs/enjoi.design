@@ -1,0 +1,14 @@
+{
+  "title": {
+    "index": "Enjoi.design"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "blog": "Blog"
+  },
+  "languages": {
+    "en": "English",
+    "fr": "Français"
+  }
+}
