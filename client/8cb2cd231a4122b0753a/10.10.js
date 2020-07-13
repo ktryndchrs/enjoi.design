@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{7:function(o){o.exports=JSON.parse('{"title":{"about":"À Propos"},"about_this_site":"À propos de ce site","about_content":["Quoi dire de plus?"]}')}}]);
