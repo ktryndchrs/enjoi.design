@@ -1,1 +1,0 @@
-var e={about:"À Propos"},t="À propos de ce site",o=["Quoi dire de plus?"],p={title:e,about_this_site:"À propos de ce site",about_content:o};export default p;export{o as about_content,t as about_this_site,e as title};

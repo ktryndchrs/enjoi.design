@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{12:function(n){n.exports=JSON.parse('{"title":{"index":"Enjoi.design"},"nav":{"home":"Home","about":"About","blog":"Blog"},"languages":{"en":"English","fr":"Français"}}')}}]);

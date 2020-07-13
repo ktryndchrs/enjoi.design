@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{4:function(n){n.exports=JSON.parse('{"title":"Enjoi.design","heading":"Enjoi.design","body":"Hello World"}')}}]);
